@@ -5,11 +5,13 @@ source_metadata:
   title: རྗེ་བཙུན་བྱམས་པ་མཐའ་ཡས་དཔལ་བཟང་པོའི་རྣམ་ཐར་དད་གསུམ་པད་ཚལ་རྒྱས་པའི་ཉིན་བྱེད།
   author: ''
   volumes:
-    053ce7c0b99043ffbc661d79d7391660:
+    28c1ef61196d455a9517f7839c5afa51:
       image_group_id: I1KG12168
-      title: ''
+      title: Volume 1 of rje btsun byams pa mtha' yas dpal bzang po'i rnam thar dad
+        gsum pad tshal rgyas pa'i nyin byed/
       volume_number: 1
       total_pages: 152
+      base_file: v001.txt
 ebook_metadata:
   title: རྗེ་བཙུན་བྱམས་པ་མཐའ་ཡས་དཔལ་བཟང་པོའི་རྣམ་ཐར་དད་གསུམ་པད་ཚལ་རྒྱས་པའི་ཉིན་བྱེད།
   author: ''
